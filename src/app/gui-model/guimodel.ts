@@ -364,7 +364,7 @@ export class GuiModel {
                         {
                             "type":"list",
                             "icon":"fa-calendar",
-                            "color":"orange",
+                            "color":"carrot",
                             "search":true,
                             "url":"/friend/:friendKey/activity",
                             "form":{
